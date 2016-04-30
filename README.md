@@ -7,6 +7,7 @@ every graph theorist / developer needs to know.
 
 ## Shortest Path Problems
 
+TBD
 
 ---
 
@@ -19,12 +20,12 @@ every graph theorist / developer needs to know.
 
 For undirected graph:
 
-[x] [Kruskal's Algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm)
-[x] [Prim's Algorithm](https://en.wikipedia.org/wiki/Prim's_algorithm)
+- [x] [Kruskal's Algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm)
+- [x] [Prim's Algorithm](https://en.wikipedia.org/wiki/Prim's_algorithm)
 
 For digraph:
 
-[x] [Edmond's Algorithm](https://en.wikipedia.org/wiki/Edmonds'_algorithm)
+- [x] [Edmond's Algorithm](https://en.wikipedia.org/wiki/Edmonds'_algorithm)
 
 ---
 
@@ -33,7 +34,7 @@ For digraph:
 > A graph is strongly connected if all of its vertices 
 > are reachable from every others.
 
-[x] [Trajan's Strongly Connected Component](https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm)
+- [x] [Trajan's Strongly Connected Component](https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm)
 
 ---
 
@@ -41,10 +42,10 @@ For digraph:
 
 For undirected graph:
 
-[x] -- TBD --
+- [x] -- TBD --
 
 For digraph:
 
-[x] [Trajan's Strongly Connected Component](https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm)
+- [x] [Trajan's Strongly Connected Component](https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm)
 
 ---
